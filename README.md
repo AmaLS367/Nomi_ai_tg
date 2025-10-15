@@ -110,10 +110,5 @@ Unpack to `./models/vosk-small-en` and set `VOSK_MODEL_PATH=./models/vosk-small-
 - Telegram updates not arriving  
   Confirm the bot token is correct and the bot is not paused in @BotFather.
 
-## Development notes
-- Keep `.env` out of git. Provide `.env.example` only.
-- Exclude `data/logs/`, `build/`, `dist/`, and `*.egg-info/` in `.gitignore`.
-- Prefer `requirements.txt` for this demo over `pyproject.toml` to keep setup simple.
-
 ## License
 MIT. See LICENSE for details.
