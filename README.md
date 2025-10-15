@@ -17,7 +17,7 @@ Single-owner Telegram bot that connects your chat to the Nomi API and replies ba
 ## Quick start on Windows
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/AmaLS367/Nomi_ai_tg.git
 cd nomi_tg_companion
 
 python -m venv .venv
